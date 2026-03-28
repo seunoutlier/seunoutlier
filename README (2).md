@@ -2,7 +2,7 @@
 
 **Hydrogeologist building ML tools for groundwater management in data-limited coastal megacities**
 
-I use neural network ensembles to reclassify aquifer systems from borehole geophysical logs, revealing subsurface complexity invisible to traditional geological models. My work on the Lagos coastal aquifer — serving 15 million people — has shown that the clay aquitard separating upper and lower aquifer units is laterally discontinuous, with saline intrusion following spatially variable patterns that only data-driven 3D interpolation can capture.
+I use neural network ensembles to reclassify aquifer systems from borehole geophysical logs, revealing subsurface complexity invisible to traditional geological models. My work on the Lagos coastal aquifer serving 15 million people has shown that the clay aquitard separating upper and lower aquifer units is laterally discontinuous, with saline intrusion following spatially variable patterns that only data-driven 3D interpolation can capture.
 
 Currently working on generalising these methods to coastal aquifers across Africa and South Asia.
 
