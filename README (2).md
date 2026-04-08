@@ -9,7 +9,7 @@ Currently generalising these AI methods to coastal aquifers across Africa and So
 
 ### Featured Work
 - **[lagos-aquifer-nn-classification](https://github.com/seunoutlier/lagos-aquifer-nn-classification)** — Neural network ensembles for automated lithological classification from borehole geophysical logs (gamma ray & resistivity). Presented at **IAH 2026 Glasgow**.
-- **[lagos-aquifer-ml](https://github.com/seunoutlier/lagos-aquifer-ml)** — ML pipeline for reassessing hydrostratigraphy and saline intrusion in the Lagos coastal aquifer.
+- **[lagos-aquifer-ml](https://github.com/seunoutlier/lagos-aquifer-ml)** — ML pipeline for reassessing hydrostratigraphy and saline intrusion in the Lagos coastal aquifer. Presented at **Alan Turing Institute PhD Presentation Day 2026 Edinburgh**
 - **[lagos-recharge-analysis](https://github.com/seunoutlier/lagos-recharge-analysis)** — Neural network analysis revealing a 38% collapse in groundwater recharge efficiency due to urbanisation in Lagos.
 - **[GWater-FM](https://github.com/seunoutlier/GWater-FM)** — Foundation model for global groundwater dynamics with transfer learning to data-scarce regions (in progress).
 
