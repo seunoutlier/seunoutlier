@@ -1,26 +1,36 @@
 # Oluwaseun Franklin Olabode, PhD
 
-**Hydrogeologist building ML tools for groundwater management in data-limited coastal megacities**
+**AI-driven Hydrogeologist**  
+Bridging machine learning and hydrogeology to tackle groundwater challenges in data-scarce coastal megacities.
 
-I use neural network ensembles to reclassify aquifer systems from borehole geophysical logs, revealing subsurface complexity invisible to traditional geological models. My work on the Lagos coastal aquifer serving 15 million people has shown that the clay aquitard separating upper and lower aquifer units is laterally discontinuous, with saline intrusion following spatially variable patterns that only data-driven 3D interpolation can capture.
+I develop neural network ensembles and geospatial ML pipelines that reveal subsurface structures invisible to traditional geological models. My PhD research on the **Lagos coastal aquifer** (serving over 15 million people) demonstrated that the key clay aquitard is laterally discontinuous, and saline intrusion follows complex, spatially variable patterns best captured by data-driven 3D interpolation and ensemble learning.
 
-Currently working on generalising these methods to coastal aquifers across Africa and South Asia.
+Currently generalising these AI methods to coastal aquifers across Africa and South Asia, while building a new **stealth project** at the intersection of deep learning and hydrogeology.
 
-### What I build
+### Featured Work
+- **[lagos-aquifer-nn-classification](https://github.com/seunoutlier/lagos-aquifer-nn-classification)** — Neural network ensembles for automated lithological classification from borehole geophysical logs (gamma ray & resistivity). Presented at **IAH 2026 Glasgow**.
+- **[lagos-aquifer-ml](https://github.com/seunoutlier/lagos-aquifer-ml)** — ML pipeline for reassessing hydrostratigraphy and saline intrusion in the Lagos coastal aquifer.
+- **[lagos-recharge-analysis](https://github.com/seunoutlier/lagos-recharge-analysis)** — Neural network analysis revealing a 38% collapse in groundwater recharge efficiency due to urbanisation in Lagos.
+- **[GWater-FM](https://github.com/seunoutlier/GWater-FM)** — Foundation model for global groundwater dynamics with transfer learning to data-scarce regions (in progress).
 
-- **Neural network ensembles** for automated lithological classification from gamma ray and resistivity logs
-- **3D spatial interpolation** generating virtual boreholes in data-gap areas to guide drilling and monitoring
-- **ML-driven recharge analysis** detecting urbanisation-driven efficiency collapse in groundwater systems
+### What I Build
+- Neural network ensembles for automated hydrostratigraphic classification
+- ML-powered 3D spatial interpolation to generate virtual boreholes in data-gap zones
+- Data-driven analysis of urbanisation impacts on groundwater recharge and levels
 
-### Tools
+### Tech Stack
+**Python** · **TensorFlow/Keras** · **scikit-learn** · **NumPy** · **Pandas** · **Plotly** · **Folium** · **QGIS** · Geospatial tools (SRTM, ODK)
 
-Python · TensorFlow/Keras · scikit-learn · NumPy · Pandas · Plotly · Folium · QGIS · SRTM · ODK
-
-### Research
-
+### Research & Academic Output
 - Publications in *WIREs Water* and *Hydrological Sciences Journal*
 - Co-author, British Geological Survey Open Report on Lagos hydrogeological typologies
-- Presented at **IAH 2026 Glasgow** and **Alan Turing Institute PhD Presentation Day**
-- PhD, University of Aberdeen · Director, Startup Grind Aberdeen
+- Presentations: **IAH 2026 Glasgow** · **Alan Turing Institute PhD Presentation Day**
+- PhD in Hydrogeology, University of Aberdeen
+- Former Director, Startup Grind Aberdeen
 
-📫 oluwaseun.folabode@gmail.com · [LinkedIn](https://www.linkedin.com/in/oluwaseun-franklin-olabode-phd-6baaaa1a6/)
+Open to **AI-in-Science fellowships**, research collaborations, and opportunities applying modern machine learning to Earth and environmental sciences.
+
+---
+
+📫 **oluwaseun.folabode@gmail.com**  
+[LinkedIn](https://www.linkedin.com/in/oluwaseun-franklin-olabode-phd-6baaaa1a6/)
